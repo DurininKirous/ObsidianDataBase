@@ -1,3 +1,10 @@
+---
+sr-due: 2025-07-14
+sr-interval: 1
+sr-ease: 230
+---
+
+#sr-due 
 Низкоуровневая утилита для изучения пакетов, гуляющих в трафике
 Примеры работы:
 tcpdump -i (interface) (port)
@@ -15,6 +22,6 @@ tcpdump 'tcp[tcpflags] & tcp-psh != 0' - PSH (толкнуть сразу)
 
 tcpdump -A -s 0 port 80 - в ASCII и HEX посмотреть внутренности пакетов
 tcpdump port 53 - посмотреть пакет на dns порту
-
+tcpdump -vvv "protocol" - посмотреть трафик конкретного протокола
 [[Tcpdump]]
 [[Команды Linux]]
