@@ -1,3 +1,9 @@
+---
+sr-due: 2025-08-05
+sr-interval: 15
+sr-ease: 250
+---
+
 #sr-due 
 RAID 5 сочетает в себе:
 - Striping как в RAID 0

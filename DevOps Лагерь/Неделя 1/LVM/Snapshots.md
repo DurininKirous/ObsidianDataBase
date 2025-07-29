@@ -1,3 +1,9 @@
+---
+sr-due: 2025-08-10
+sr-interval: 18
+sr-ease: 250
+---
+
 #sr-due 
 Snapshots в LVM - это точка во времени LV, которая выглядит как замороженная копия.
 Это Copy-on-Write:

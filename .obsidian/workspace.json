@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7d835175325cba3b",
+        "id": "616859eaadfbd9d9",
         "type": "tabs",
         "children": [
           {
-            "id": "0b667e0ad5b64ff0",
+            "id": "cbbab3f42a70582a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Лагерь/Неделя 1/Команды Linux/sar.md",
+                "file": "DevOps Лагерь/Неделя 2/docker cli/docker cli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sar"
+              "title": "docker cli"
             }
           },
           {
-            "id": "b8af4b5e74340e64",
+            "id": "d97d34d0e0a16b3b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -30,9 +30,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "aa45c0b665370569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/artifacts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "artifacts"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sr-due",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Basics/Untitled.md",
+                "file": "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/artifacts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for artifacts"
             }
           },
           {
@@ -124,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Basics/Untitled.md",
+                "file": "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/artifacts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from artifacts"
             }
           },
           {
@@ -153,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DevOps Лагерь/Неделя 2/Создание контейнера вручную.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Создание контейнера вручную"
             }
           },
           {
@@ -201,51 +216,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8af4b5e74340e64",
+  "active": "aa45c0b665370569",
   "lastOpenFiles": [
-    "DevOps Лагерь/Неделя 1/Команды Linux/sar.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/w, uptime.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/last.md",
-    "DevOps Лагерь/Неделя 1/LVM/Структура изнутри.md",
-    "DevOps Лагерь/Неделя 1/LVM/LVM.md",
-    "DevOps Лагерь/Неделя 1/LVM/Snapshots.md",
-    "DevOps Лагерь/Неделя 1/LVM/Система уровней.md",
-    "DevOps Лагерь/Неделя 1/RAID/RAID 10.md",
-    "DevOps Лагерь/Неделя 1/LVM",
-    "Databases/База Данных.md",
-    "Pasted image 20250713185610.png",
-    "DevOps Лагерь/Неделя 1/RAID/RAID 6.md",
-    "Pasted image 20250713185548.png",
-    "DevOps Лагерь/Неделя 1/RAID/RAID 5.md",
-    "Pasted image 20250713140301.png",
-    "DevOps Лагерь/Неделя 1/RAID/RAID 1.md",
-    "Pasted image 20250713133718.png",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/runner.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/jobs.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/stages.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/CI CD Pipeline Логическая модель.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/Архитектура CI CD пайплайна.md",
+    "DevOps Лагерь/Неделя 1/Сети/HTTP/HTTP.md",
+    "DevOps Лагерь/Неделя 2/dockerd/Что происходит при docker run?.md",
+    "DevOps Лагерь/Неделя 2/Docker/Docker Network/Типы сетей в Docker.md",
+    "DevOps Лагерь/Неделя 1/Сети/TCP/Работа TCP (закрытие).md",
+    "DevOps Лагерь/Неделя 2/Linux primitives/Namespaces/nsenter.md",
+    "DevOps Лагерь/Неделя 1/Сети/HTTPS/HTTPS.md",
+    "DevOps Лагерь/Неделя 1/Команды Linux/Ulimit.md",
+    "DevOps Лагерь/Неделя 1/Команды Linux/pstree.md",
+    "DevOps Лагерь/Неделя 2/Linux primitives/overlayFS/Как Docker использует overlayFS.md",
     "DevOps Лагерь/Неделя 1/RAID/RAID 0.md",
+    "DevOps Лагерь/Неделя 1/Сети/UDP/Структура UDP пакета.md",
+    "DevOps Лагерь/Неделя 1/Команды Linux/lsof.md",
+    "DevOps Лагерь/Неделя 1/Команды Linux/Systemd/Systemd.md",
+    "DevOps Лагерь/Неделя 1/Команды Linux/Systemd/Systemd timer.md",
+    "DevOps Лагерь/Неделя 2/Docker/Docker Network/Общая модель Networking.md",
+    "DevOps Лагерь/Неделя 2/Linux primitives/Namespaces/Где это используется в докере.md",
+    "DevOps Лагерь/Неделя 2/Linux primitives/Cgroups/Cgroups.md",
+    "DevOps Лагерь/Неделя 2/docker cli/docker cli.md",
+    "DevOps Лагерь/Неделя 1/Команды Linux/htop.md",
     "DevOps Лагерь/Неделя 1/RAID/RAID.md",
+    "DevOps Лагерь/Неделя 1/RAID/RAID 1.md",
+    "DevOps Лагерь/Неделя 2/Pet-Project/db/init/init_users.sql~",
+    "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/service/users/users.go~",
+    "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/handlers/users/users.go~",
+    "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/db/users/users.go~",
+    "DevOps Лагерь/Неделя 2/Pet-Project/app/cmd/app/main.go~",
+    "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/server/router.go~",
+    "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/server/users/users.go~",
+    "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/server/healthcheck/healthcheck.go~",
+    "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/server/users/users.go",
+    "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/server/healthcheck/healthcheck.go",
+    "DevOps Лагерь/Неделя 2/Linux primitives/Untitled.canvas",
+    "Pasted image 20250713185610.png",
+    "Pasted image 20250713185548.png",
+    "Pasted image 20250713140301.png",
+    "Pasted image 20250713133718.png",
     "Pasted image 20250713131109.png",
     "Pasted image 20250713131101.png",
-    "DevOps Лагерь/Неделя 1/Команды Linux/Ulimit.md",
-    "DevOps Лагерь/Неделя 1/Сети/HTTPS/HTTPS рукопожатие.md",
-    "DevOps Лагерь/Неделя 1/RAID",
-    "DevOps Лагерь/Неделя 1/Сети/HTTP/HTTP коды.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/Systemd/Systemctl (новое и полезное).md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/iptables/Практика.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/nftables.md",
-    "DevOps Лагерь/Неделя 1/Сети/TCP/Состояния сокетов.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/iptables/Последовательность обработки пакетов в netfilter.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/Systemd/Systemd.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/Nc.md",
-    "DevOps Лагерь/Неделя 1/Сети/TCP/Работа TCP (рукопожатие).md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/iftop.md",
-    "Templates",
     "Untitled.canvas",
-    "DevOps Лагерь/Неделя 1/SELinux",
-    "DevOps Лагерь/Неделя 1/Команды Linux/iptables",
-    "DevOps Лагерь/Неделя 1/Сети/NTP",
-    "DevOps Лагерь/Неделя 1/Сети/DNS/Структура DNS пакета",
-    "DevOps Лагерь/Неделя 1/Сети/DNS",
-    "DevOps Лагерь/Неделя 1/Сети/HTTPS",
-    "DevOps Лагерь/Неделя 1/Сети/HTTP",
     "Pasted image 20250708201438.png",
     "My Roadmap 1.canvas",
     "Pasted image 20250708182113.png",

@@ -86,8 +86,8 @@
 ---
 
 # ✅ Твой чеклист прогресса
-- [ ] 📚 Linux + Сети освоены
-- [ ] 🐳 Docker + docker-compose написаны для pet проектов
+- [x] 📚 Linux + Сети освоены
+- [x] 🐳 Docker + docker-compose написаны для pet проектов
 - [ ] ⚙ CI/CD пайплайны (GitHub Actions / GitLab CI) работают
 - [ ] ☸ Kubernetes: Pods, Deployments, Ingress, Helm в продакшн уровне
 - [ ] 📦 Terraform + Ansible для IaC

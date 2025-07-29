@@ -1,3 +1,9 @@
+---
+sr-due: 2025-08-06
+sr-interval: 16
+sr-ease: 250
+---
+
 #sr-due 
 RAID 10 - это комбинация RAID 1 и RAID 0:
 - Сначала зеркалирование через RAID 1
