@@ -1,3 +1,9 @@
+---
+sr-due: 2025-07-31
+sr-interval: 1
+sr-ease: 230
+---
+
 #sr-due 
 CI/CD - система сборки, тестирования, артефактирования и выката, состоящая из:
 - Pipeline Engine - парсер и оркестратор пайплайнов (GitHub Actions, GitLab CI, Jenkins)

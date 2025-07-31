@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/artifacts.md",
+                "file": "DevOps Лагерь/Неделя 3/GitLab Runner/Как Runner исполняет job - жизненный цикл.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artifacts"
+              "title": "Как Runner исполняет job - жизненный цикл"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/artifacts.md",
+                "file": "DevOps Лагерь/Неделя 3/GitLab Runner/Как Runner исполняет job - жизненный цикл.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for artifacts"
+              "title": "Backlinks for Как Runner исполняет job - жизненный цикл"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/artifacts.md",
+                "file": "DevOps Лагерь/Неделя 3/GitLab Runner/Как Runner исполняет job - жизненный цикл.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from artifacts"
+              "title": "Outgoing links from Как Runner исполняет job - жизненный цикл"
             }
           },
           {
@@ -218,32 +218,33 @@
   },
   "active": "aa45c0b665370569",
   "lastOpenFiles": [
-    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/runner.md",
+    "DevOps Лагерь/Неделя 3/GitLab Runner/Масштабирование и кластеризация Runner'ов.md",
+    "DevOps Лагерь/Неделя 3/GitLab Runner/GitLab Runner.md",
+    "DevOps Лагерь/Неделя 3/GitLab Runner/Labels, tags, concurrent, limit.md",
+    "DevOps Лагерь/Неделя 3/GitLab Runner/Token'ы в Runner'е.md",
+    "DevOps Лагерь/Неделя 3/GitLab Runner/Регистрация Runner'а и config.toml.md",
+    "DevOps Лагерь/Неделя 3/GitLab Runner/Как Runner исполняет job - жизненный цикл.md",
+    "DevOps Лагерь/Неделя 3/GitLab Runner/Основные типы Runner'ов по executor.md",
+    "DevOps Лагерь/Неделя 1/SELinux/Типовые практические приёмы SELinux.md",
+    "DevOps Лагерь/Неделя 3/GitLab Runner",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/Жизненный цикл CI CD после git push.md",
+    "DevOps Лагерь/Неделя 2/runc/Что runc делает.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/Как GitLab превращает .gitlab-ci.yml в DAG-пайплайн.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/Как связывается репозиторий, pipeline и runner через API.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/Где хранятся пайплайны, артефакты, кеши, логи.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/cache.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/artifacts.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/Архитектура CI CD пайплайна.md",
     "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/jobs.md",
     "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/stages.md",
     "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/CI CD Pipeline Логическая модель.md",
-    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/Архитектура CI CD пайплайна.md",
-    "DevOps Лагерь/Неделя 1/Сети/HTTP/HTTP.md",
-    "DevOps Лагерь/Неделя 2/dockerd/Что происходит при docker run?.md",
-    "DevOps Лагерь/Неделя 2/Docker/Docker Network/Типы сетей в Docker.md",
-    "DevOps Лагерь/Неделя 1/Сети/TCP/Работа TCP (закрытие).md",
-    "DevOps Лагерь/Неделя 2/Linux primitives/Namespaces/nsenter.md",
-    "DevOps Лагерь/Неделя 1/Сети/HTTPS/HTTPS.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/Ulimit.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/pstree.md",
-    "DevOps Лагерь/Неделя 2/Linux primitives/overlayFS/Как Docker использует overlayFS.md",
-    "DevOps Лагерь/Неделя 1/RAID/RAID 0.md",
-    "DevOps Лагерь/Неделя 1/Сети/UDP/Структура UDP пакета.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/lsof.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/Systemd/Systemd.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/Systemd/Systemd timer.md",
-    "DevOps Лагерь/Неделя 2/Docker/Docker Network/Общая модель Networking.md",
-    "DevOps Лагерь/Неделя 2/Linux primitives/Namespaces/Где это используется в докере.md",
-    "DevOps Лагерь/Неделя 2/Linux primitives/Cgroups/Cgroups.md",
-    "DevOps Лагерь/Неделя 2/docker cli/docker cli.md",
-    "DevOps Лагерь/Неделя 1/Команды Linux/htop.md",
-    "DevOps Лагерь/Неделя 1/RAID/RAID.md",
-    "DevOps Лагерь/Неделя 1/RAID/RAID 1.md",
+    "DevOps Лагерь/Неделя 3/Архитектура CI CD пайплайна/runner.md",
+    "DevOps Лагерь/Неделя 1/Команды Linux/w, uptime.md",
+    "DevOps Лагерь/Неделя 1/Команды Linux/last.md",
+    "DevOps Лагерь/Неделя 1/Сети/TCP/Состояния сокетов.md",
+    "DevOps Лагерь/Неделя 2/dockerd/Файлы и каталоги к dockerd.md",
+    "DevOps Лагерь/Неделя 2/Linux primitives/Namespaces/Как это видно в Linux (proc pid ns).md",
+    "DevOps Лагерь/Неделя 2/dockerd/Конфигурация dockerd (daemon.json).md",
     "DevOps Лагерь/Неделя 2/Pet-Project/db/init/init_users.sql~",
     "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/service/users/users.go~",
     "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/handlers/users/users.go~",
@@ -253,7 +254,6 @@
     "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/server/users/users.go~",
     "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/server/healthcheck/healthcheck.go~",
     "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/server/users/users.go",
-    "DevOps Лагерь/Неделя 2/Pet-Project/app/internal/server/healthcheck/healthcheck.go",
     "DevOps Лагерь/Неделя 2/Linux primitives/Untitled.canvas",
     "Pasted image 20250713185610.png",
     "Pasted image 20250713185548.png",
