@@ -1,9 +1,8 @@
 ---
-sr-due: 2025-08-22
-sr-interval: 23
+sr-due: 2025-11-21
+sr-interval: 76
 sr-ease: 250
 ---
-
 #sr-due 
 
 |Путь|Что это|

@@ -1,11 +1,11 @@
 ---
-sr-due: 2025-07-31
-sr-interval: 10
+sr-due: 2025-11-17
+sr-interval: 73
 sr-ease: 250
 ---
 
 #sr-due 
-### Принимает путь доя config.json
+### Принимает путь для config.json
 `runc run "container-id"`
 В каталоге ./container-id должен быть:
 - config.json - описание контейнера (по oci spec)
