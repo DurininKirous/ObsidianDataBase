@@ -1,10 +1,8 @@
 ---
-sr-due: 2025-09-15
-sr-interval: 2
+sr-due: 2025-09-19
+sr-interval: 4
 sr-ease: 208
 ---
-
-#sr-due 
 - В WorkQueue кладёт ключи, не объекты. Объект достаём из кеша информера.
 - Done() должен быть вызван всегда.
 - При ошибке - AddRateLimited. При успехе - Forget

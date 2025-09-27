@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-02
+sr-interval: 8
+sr-ease: 190
+---
+
 #sr-due 
 1. Scheduler назначает Pod на ноду -> в API появляется `spec.nodeName`
 2. kubelet видит новый Pod по watch и кладёт его в worker 

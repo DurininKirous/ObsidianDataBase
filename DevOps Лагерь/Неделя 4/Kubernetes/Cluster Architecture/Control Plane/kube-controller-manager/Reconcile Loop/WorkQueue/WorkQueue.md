@@ -1,6 +1,6 @@
 ---
-sr-due: 2025-09-14
-sr-interval: 2
+sr-due: 2025-10-04
+sr-interval: 13
 sr-ease: 230
 ---
 
@@ -13,4 +13,4 @@ sr-ease: 230
 > Сами данные читаются из кеша через `Lister`.
 
 [[WorkQueue]]
-[[WorkQueue]]
+[[Reconcile Loop (контроллерный цикл)]]

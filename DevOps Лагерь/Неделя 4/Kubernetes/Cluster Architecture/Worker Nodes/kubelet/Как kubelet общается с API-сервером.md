@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-08
+sr-interval: 14
+sr-ease: 230
+---
+
 #sr-due 
 - kubelet подписывается (watch) на Pod'ы с spec.nodeName = "эта нода"
 - Регулярно обновляет статус ноды: Node.status.conditions и объект Lease (heartbeat)

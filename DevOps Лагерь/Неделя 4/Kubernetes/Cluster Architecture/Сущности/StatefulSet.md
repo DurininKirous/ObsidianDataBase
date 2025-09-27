@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-07
+sr-interval: 13
+sr-ease: 226
+---
+
 #sr-due 
 StatefulSet - это объект для запуска stateful-приложений (состояние, уникальные идентификаторы, привязка к дискам)
 В отличие от [[DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Сущности/Deployment|Deployment]]:
@@ -46,6 +52,18 @@ spec:
     - сначала `web-0`, потом `web-1`, потом `web-2`.
     - при удалении — в обратном порядке.
 - Может работать с **PodDisruptionBudget**, чтобы не рушить кворум кластера (например, в базе данных).
+- PVC «навсегда» остаются, даже если уменьшить `replicas`. Надо удалять вручную.
+## Service и DNS
+- Для StatefulSet почти всегда нужен **Headless Service** (`clusterIP: None`).
+- Это даёт каждому Pod предсказуемое DNS-имя:
+	- "pod-name"."service-name"."namespace".svc.cluster.local
+	Пример: `db-0.db.default.svc.cluster.local`
+
+PVC получают имена по схеме:
+	volumeClaimTemplate.name-statefulset-name-ordinal
+Например:
+- PVC: `data-mysql-0`, `data-mysql-1`, `data-mysql-2`.
+- Pod: `mysql-0`, `mysql-1`, `mysql-2`.
 
 ## Когда применять
 - Базы данных (Postgres, MySQL, Cassandra).

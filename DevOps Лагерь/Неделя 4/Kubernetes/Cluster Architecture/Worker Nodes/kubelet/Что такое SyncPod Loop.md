@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-14
+sr-interval: 20
+sr-ease: 250
+---
+
 #sr-due 
 Каждый worker делает идемпотентную "сверку" desired vs actual:
 - desired: PodSpec

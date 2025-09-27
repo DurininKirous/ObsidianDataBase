@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-13
+sr-interval: 19
+sr-ease: 250
+---
+
 #sr-due 
 - **Что делает:**
     - Следит за квотами в Namespace (`ResourceQuota`).
