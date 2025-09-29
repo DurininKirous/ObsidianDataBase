@@ -13,36 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы и структуры данных/Leetcode/Medium/71. Simplify Path.md",
+                "file": "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/CSI/Ошибки CSI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "71. Simplify Path"
+              "title": "Ошибки CSI"
             }
           },
           {
             "id": "5dc28436f7a56210",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Системный дизайн/SLO-фрейм + RED USE/RED и USE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RED и USE"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
             "id": "670ec3924140d574",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы и структуры данных/Leetcode/Medium/235. Lowest Common Ancestor of a BST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "235. Lowest Common Ancestor of a BST"
             }
           }
         ],
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fail",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 324.5
   },
   "right": {
     "id": "22a718d8fa89410f",
@@ -219,42 +219,41 @@
   },
   "active": "670ec3924140d574",
   "lastOpenFiles": [
-    "Системный дизайн/SLO-фрейм + RED USE/SLO-фрейм + RED USE.md",
-    "Системный дизайн/SLO-фрейм + RED USE/RED и USE.md",
-    "Алгоритмы и структуры данных/Leetcode/Easy/100. Same Tree.md",
-    "Системный дизайн/SLO-фрейм + RED USE/SLA SLO SLI Error budget.md",
-    "Системный дизайн/Системный дизайн.md",
-    "Системный дизайн/SLO-фрейм + RED USE",
-    "Алгоритмы и структуры данных/Untitled.md",
-    "Системный дизайн",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Сущности/Pod/Зачем нужен pause-контейнер.md",
-    "Алгоритмы и структуры данных/Leetcode/Easy/104. Maximum Depth of Binary Tree.md",
-    "Алгоритмы и структуры данных/Алгоритмы/Деревья/BFS (Breadth-First Search).md",
-    "Алгоритмы и структуры данных/Алгоритмы/Деревья/DFS — Depth-First Search.md",
-    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Деревья.md",
-    "Алгоритмы и структуры данных/Алгоритмы/Алгоритмы.md",
-    "Алгоритмы и структуры данных/Алгоритмы/Деревья",
-    "Алгоритмы и структуры данных/Leetcode/Medium/739. Daily Temperatures.md",
-    "Алгоритмы и структуры данных/Алгоритмы",
-    "Алгоритмы и структуры данных/Leetcode/Hard/239. Sliding Window Maximum.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/2. Add Two Numbbers.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/503. Next Greater Element II.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/Untitled",
-    "Алгоритмы и структуры данных/Leetcode/Easy/496. Next Greater Element I.md",
-    "Алгоритмы и структуры данных/Leetcode/Hard/Hard.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Сущности/StatefulSet.md",
-    "Алгоритмы и структуры данных/Leetcode/Hard",
+    "Алгоритмы и структуры данных/Leetcode/Medium/235. Lowest Common Ancestor of a BST.md",
+    "DevOps Лагерь/key",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/DFS vs BFS в задачах на деревьях.md",
+    "Алгоритмы и структуры данных/Leetcode/Medium/98. Validate BST.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Binary Search Tree (BST).md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Виды обходов/Inorder.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Виды деревьев.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Виды обходов/Level-order.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Виды обходов/Postorder.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Виды обходов/Preorder.md",
     "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/CSI/Ошибки CSI.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/CSI/Основные операции CSI.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/CSI/Как kubelet подмонтирует PVC в Pod.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/CSI/Где смотреть и как дебажить.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/CSI/CSI.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Volumes and Storage/StorageClass/debug.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Volumes and Storage/StorageClass/Пример StorageClas.md",
+    "Алгоритмы и структуры данных/Leetcode/Medium/71. Simplify Path.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Виды обходов/Виды обходов.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Деревья.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/Виды обходов",
+    "Алгоритмы и структуры данных/Leetcode/Easy/101. Symmetric Tree.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/DFS — Depth-First Search.md",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья/BFS (Breadth-First Search).md",
+    "Databases/Бэкапы/PITR.md",
+    "Databases/Бэкапы/Типы бэкапов.md",
+    "Databases/Бэкапы/Бэкапы.md",
+    "Databases/Бэкапы",
+    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Сущности/Deployment.md",
+    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/Management.md",
+    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/Manual Node administration.md",
+    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/Node Controller.md",
+    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/Node Heartbeats.md",
+    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/Node name uniqueness.md",
+    "Системный дизайн/SLO-фрейм + RED USE",
+    "Системный дизайн",
+    "Алгоритмы и структуры данных/Алгоритмы/Деревья",
+    "Алгоритмы и структуры данных/Алгоритмы",
+    "Алгоритмы и структуры данных/Leetcode/Medium/Untitled",
+    "Алгоритмы и структуры данных/Leetcode/Hard",
     "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Volumes and Storage/StorageClass",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Volumes and Storage/PV & PVC/Untitled",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Volumes and Storage/PV & PVC",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Volumes and Storage/Ephmeral/Untitled",
     "DevOps Лагерь/Неделя 2/Linux primitives/Untitled.canvas",
     "Pasted image 20250713185610.png",
     "Pasted image 20250713185548.png",
