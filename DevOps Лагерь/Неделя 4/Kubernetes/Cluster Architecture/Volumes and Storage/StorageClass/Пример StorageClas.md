@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-24
+sr-interval: 15
+sr-ease: 230
+---
+
 #sr-due 
 ```yaml
 apiVersion: storage.k8s.io/v1

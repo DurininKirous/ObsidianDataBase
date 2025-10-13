@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-23
+sr-interval: 14
+sr-ease: 230
+---
+
 #sr-due 
 **Level-order (BFS)**
 - Обход по уровням.

@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-17
+sr-interval: 8
+sr-ease: 206
+---
+
 #sr-due 
 - Работает, если:
     - у **StorageClass** включён `allowVolumeExpansion: true`,

@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-24
+sr-interval: 15
+sr-ease: 230
+---
+
 #sr-due 
 - SLA (Service Level Agreement)
 	Это то, что мы обещаем бизнес пользователю
