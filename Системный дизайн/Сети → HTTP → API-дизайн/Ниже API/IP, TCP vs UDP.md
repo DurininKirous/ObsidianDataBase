@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-20
+sr-interval: 1
+sr-ease: 230
+---
+
 #sr-due 
 IP (L3)
 - Обеспечивает адресацию и маршрутизацию (best-effort)

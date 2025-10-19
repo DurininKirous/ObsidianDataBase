@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-20
+sr-interval: 1
+sr-ease: 230
+---
+
 #sr-due 
 - TLS 1.3: 1 RTT на устанвоку (против 2 RTT на старых схемах)
 - Сертификаты x.509: цепочка доверия (Root -> Intermediate -> Server). HSTS/H2/H3 обычно требуют валидный TLS
