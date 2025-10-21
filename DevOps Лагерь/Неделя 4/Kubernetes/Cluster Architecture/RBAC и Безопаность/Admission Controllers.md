@@ -1,13 +1,13 @@
 ---
-sr-due: 2025-10-21
-sr-interval: 5
+sr-due: 2025-11-03
+sr-interval: 13
 sr-ease: 230
 ---
 
 #sr-due 
 Компоненты API Server, которые проверяют или модифицируют манифесты
 - ValidatingAdmissionWebhook - проверяет, можно ли принять объект
-- MutatingAdmissionWbhook - может изменять объект (например, доббавлять аннотации)
+- MutatingAdmissionWebhook - может изменять объект (например, доббавлять аннотации)
 - Примеры встроенных контроллеров:
 	- `NamespaceLifecycle`
 	- `LimitRanger`

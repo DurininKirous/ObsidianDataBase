@@ -4,7 +4,6 @@ sr-interval: 5
 sr-ease: 230
 ---
 
-#sr-due 
 - Prometheus rules: выражения в PromQL -> состояние ALERT (firing/resolve)
 - Alertmanager: routing (по лейблам: severity, team), inhibition (не спаммить при корневом инциденте), silences (временные mute)
 - Каналы: Telegram/Slack/Email/Webhook
