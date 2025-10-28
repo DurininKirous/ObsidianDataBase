@@ -1,6 +1,6 @@
 ---
-sr-due: 2025-10-22
-sr-interval: 13
+sr-due: 2025-12-04
+sr-interval: 37
 sr-ease: 230
 ---
 

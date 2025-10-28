@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-29
+sr-interval: 1
+sr-ease: 230
+---
+
 #sr-due 
 Helm - менеджер релизов для Kubernetes.
 Он делает три вещи:
