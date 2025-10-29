@@ -1,0 +1,6 @@
+### Зачем нужен DNS
+- Pod'ы общаются не по IP, а по именам сервисов
+- У каждого Service есть DNS-имя -> CoreDNS отвечает за резолвинг
+- Без этого кластер превратился бы в ад из IP-адресов
+[[Obsidian Vault/Rebrain/Studying/DevOps/Неделя 4/Kubernetes/Cluster Architecture/DNS/DNS]]
+[[Архитектура кластера]]
