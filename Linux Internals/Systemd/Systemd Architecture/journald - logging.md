@@ -1,5 +1,11 @@
+---
+sr-due: 2025-10-31
+sr-interval: 1
+sr-ease: 230
+---
+
 #sr-due 
-- Роль: сбор и хранение логов с метаданными (unit, UID, cgroup, PID, PRIORITY, _EXE_, _CMDLINE_). Пишет в память и/или нна диск (journal files)
+- Роль: сбор и хранение логов с метаданными (unit, UID, cgroup, PID, PRIORITY, _EXE_, _CMDLINE_). Пишет в память и/или на диск (journal files)
 - Юнит: systemd-journald.service
 - Конфиг: /etc/systemd/journald.conf (Например, Storage=auto|persistent, лимиты)
 - Чтение: journalctl (фильтры: -u unit, -b, -f, -p warning, _PID_=, _SYSTEMD_UNIT=_)

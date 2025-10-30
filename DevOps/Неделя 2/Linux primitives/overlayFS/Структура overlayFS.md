@@ -20,4 +20,4 @@ sr-ease: 250
 - запись всегда берётся в upperdir
 
 [[Структура overlayFS]]
-[[overlayFS]]
+[[Obsidian Vault/Rebrain/Studying/DevOps/Неделя 2/Linux primitives/overlayFS/overlayFS]]

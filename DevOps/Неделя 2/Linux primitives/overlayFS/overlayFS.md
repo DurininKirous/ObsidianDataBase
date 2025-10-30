@@ -28,5 +28,5 @@ overlayFS - это специальная файловая система в Lin
 |**Невозможно безопасно делить базу между контейнерами**|overlayFS позволяет 100 контейнерам использовать одни и те же `lowerdir`, но каждый контейнер имеет свой `upperdir` для изменений.|
 |**Невозможно сделать атомарные операции (rename, unlink)**|overlayFS через `workdir` поддерживает atomic операции для overlay.|
 |**Нет прозрачной экономии места (copy-on-write)**|overlayFS хранит общий read-only base (`lowerdir`), а пишет только изменения — экономит гигабайты.|
-[[overlayFS]]
+[[Obsidian Vault/Rebrain/Studying/DevOps/Неделя 2/Linux primitives/overlayFS/overlayFS]]
 [[Linux Primitives]]

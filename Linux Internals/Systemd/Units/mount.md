@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-31
+sr-interval: 1
+sr-ease: 230
+---
+
 #sr-due 
 Назначение: описывает монтирование файловой системы как unit. Именование: имя соответствует пути, - заменят /: /var/log -> var-log.mount
 Ключевые поля (\[Mount]):
@@ -9,5 +15,5 @@ systemctl start var-log.mount
 systemctl enable var-log.mount
 systemctl status var-log.mount
 ```
-[[mount]]
+[[Obsidian Vault/Rebrain/Studying/Linux Internals/Systemd/Units/mount]]
 [[Units]]

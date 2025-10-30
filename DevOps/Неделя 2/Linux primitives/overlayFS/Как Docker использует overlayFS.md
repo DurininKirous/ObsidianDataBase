@@ -7,4 +7,4 @@ sr-ease: 250
 #sr-due 
 Каждый Docker image состоит из цепочки read-only слоёв (layers), которые по сути можно сказать являются цепочками lowerdir папок. Каждый контейнер, запущенный из данного образа, использует в основе одну вот эту общую цепочку папок, никакого копирования. Если нужно внести изменения в контейнер, то из lowerdir копируются данные в upperdir и данные изменяют.
 [[Как Docker использует overlayFS]]
-[[overlayFS]]
+[[Obsidian Vault/Rebrain/Studying/DevOps/Неделя 2/Linux primitives/overlayFS/overlayFS]]

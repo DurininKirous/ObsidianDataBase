@@ -1,3 +1,9 @@
+---
+sr-due: 2025-10-31
+sr-interval: 1
+sr-ease: 230
+---
+
 #sr-due 
 Назначение: описывает демон/процесс и его жизненный цикл. Ключевые секции/поля:
 - \[Unit]: Description=, Requires=, Wants=, Before=, After=
