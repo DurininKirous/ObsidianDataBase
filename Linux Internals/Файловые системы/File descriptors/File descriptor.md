@@ -1,3 +1,9 @@
+---
+sr-due: 2025-11-21
+sr-interval: 12
+sr-ease: 230
+---
+
 #sr-due 
 ### База
 - FD - это целое число в процессе, указывающее на запись в таблице открытых файлов (per-process -> open-file table -> inode)

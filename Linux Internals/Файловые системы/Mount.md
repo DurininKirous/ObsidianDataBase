@@ -1,3 +1,9 @@
+---
+sr-due: 2025-11-22
+sr-interval: 13
+sr-ease: 230
+---
+
 #sr-due 
 Базовый синтаксис:
 ```bash

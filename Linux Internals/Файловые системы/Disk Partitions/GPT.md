@@ -1,3 +1,9 @@
+---
+sr-due: 2025-11-22
+sr-interval: 13
+sr-ease: 230
+---
+
 #sr-due 
 GPT (GUID Partition Table)
 - Часть стандарта UEFI. Поддерживает и Legacy с защитным MBR

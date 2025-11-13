@@ -1,3 +1,9 @@
+---
+sr-due: 2025-11-21
+sr-interval: 12
+sr-ease: 230
+---
+
 #sr-due 
 **Ключевое:** объединяет **lowerdir**(ы) read-only и **upperdir** (rw) → быстрые копии образов, copy-up на запись.
 

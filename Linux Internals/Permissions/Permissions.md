@@ -1,3 +1,9 @@
+---
+sr-due: 2025-11-20
+sr-interval: 12
+sr-ease: 230
+---
+
 #sr-due 
 ## Разбор `ls -l`
 Пример: `-rwxr-xr-- 1 user group 4096 Oct 28 10:00 file.txt`
