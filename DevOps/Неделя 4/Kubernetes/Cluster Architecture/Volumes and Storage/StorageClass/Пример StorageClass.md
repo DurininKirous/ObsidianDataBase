@@ -1,6 +1,6 @@
 ---
-sr-due: 2025-12-05
-sr-interval: 39
+sr-due: 2026-03-07
+sr-interval: 92
 sr-ease: 230
 ---
 
@@ -25,5 +25,5 @@ allowVolumeExpansion: true
 - `reclaimPolicy: Delete` → диск удалится, если PVC удалён.
 - `volumeBindingMode: WaitForFirstConsumer` → дождёмся, пока Pod будет назначен на ноду в правильной зоне.
 - `allowVolumeExpansion: true` → PVC можно ресайзить.
-[[Пример StorageClas]]
+[[Пример StorageClass]]
 [[StorageClass]]
