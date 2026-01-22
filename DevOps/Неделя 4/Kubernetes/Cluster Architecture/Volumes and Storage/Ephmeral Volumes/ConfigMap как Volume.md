@@ -1,13 +1,25 @@
 ---
-sr-due: 2025-12-10
-sr-interval: 43
-sr-ease: 230
+created: 2026-01-05 20:47
+tags:
+  - status/seed
+  - type/concept
+  - domain/k8s
+  - sr-due
+sr-due: 2026-04-18
+sr-interval: 103
+sr-ease: 43
 ---
+### 💡 The What
+*Что это?*
+ConfigMap можно использовать как Volume в Kubernetes
 
-#sr-due 
+### ⚙️ The Why & How
+*Инженерная суть. Механика. Зачем это нужно?*
 - ConfigMap хранит конфигурационные файлы
 - Можно примонтировать ConfigMap как файлы в Pod
+- Изменения в ConfigMap автоматически подтянутся в Pod (с небольшой задержкой), если файл не был изменён самим приложением
 Пример:
+```
 apiVersion: v1
 kind: ConfigMap
 metadata:
@@ -33,6 +45,16 @@ spec:
   - name: config-volume
     configMap:
       name: app-config
-Изменения в ConfigMap автоматически подтянутся в Pod (с небольшой задержкой), если файл не был изменён самим приложением.
-[[ConfigMap как Volume]]
-[[Ephmeral Volumes]]
+```
+---
+### ⚔️ VS / Trade-offs
+*С чем сравнить? Плюсы/Минусы.*
+- **VS [[hostPath]]**: Небезопасен, доступ к системе
+- VS [[EmptyDir]]: Не переиспользуем, очищается при завершении пода
+
+
+---
+### 🔗 Connections
+- **Родитель**: [[Ephmeral Volumes]]
+- **Влияет на**: [[...]]
+- **Инсайт**: 

@@ -9,4 +9,4 @@ sr-ease: 230
     `kube-apiserver`, `kube-controller-manager`, `kube-scheduler`, `etcd`.
 - Томá обычно `hostPath` (сертификаты, конфиги, сокеты), чтобы процесс видел файловую систему ноды.
 [[Что обычно кладут в Static Pod]]
-[[Static Pod]]
+[[Static Pod в K8S]]

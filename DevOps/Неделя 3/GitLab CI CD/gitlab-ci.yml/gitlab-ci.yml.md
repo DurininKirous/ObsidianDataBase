@@ -4,7 +4,5 @@ sr-interval: 128
 sr-ease: 290
 ---
 
-#sr-due 
-
 [[gitlab-ci.yml]]
 [[GitLab CI CD]]

@@ -1,12 +1,22 @@
 ---
-sr-due: 2025-12-12
-sr-interval: 32
+created: 2026-01-07 12:12
+tags:
+  - status/seed
+  - type/concept
+  - domain/linux
+  - sr-due
+sr-due: 2026-04-20
+sr-interval: 103
 sr-ease: 230
 ---
+### 💡 The What
+*Что это?*
+Сравнение LB на 4 уровне OSI и на 7
 
-#sr-due 
+### ⚙️ The Why & How
+*Инженерная суть. Механика. Зачем это нужно?*
 #### Layer 4 (Transport Layer) - быстрый, но "тупой"
-Работает на уровне TCP, UDP, не смотрит содержимое HTTP:
+Работает на уровне [[TCP]], [[UDP]], не смотрит содержимое [[HTTP]]:
 
 Client -> LB -> Server
 		(Видит только IP:Port)
@@ -38,5 +48,8 @@ GET /admin/    -> Server 3 (Admin Panel)
 - WAF (Web Application Firewall)
 
 Примеры: AWS Application Load Balancer, NGINX, Envoy
-[[Layer 4 vs Layer 7 Load Balancing]]
-[[Load Balancer]]
+
+---
+### 🔗 Connections
+- **Родитель**: [[Load Balancer]]
+- **Влияет на**: [[Алгоритмы балансировки]], [[Где размещать Load Balancer]]
