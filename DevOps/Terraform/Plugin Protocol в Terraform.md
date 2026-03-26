@@ -5,6 +5,9 @@ tags:
   - type/concept
   - domain/linux
   - sr-due
+sr-due: 2026-05-07
+sr-interval: 45
+sr-ease: 224
 ---
 ### 💡 The What
 *Что это?*

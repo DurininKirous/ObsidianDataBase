@@ -1,6 +1,6 @@
 ---
-sr-due: 2026-02-11
-sr-interval: 87
+sr-due: 2026-09-06
+sr-interval: 204
 sr-ease: 230
 ---
 
@@ -28,4 +28,4 @@ Kubernetes — **event-driven система**.
 > - уведомляет контроллеры о событиях (`Add`, `Update`, `Delete`)
 
 [[SharedInformerFactory и Informer]]
-[[Watch (подписка на изменения)]]
+[[Watch (подписка на изменения) в k8s]]

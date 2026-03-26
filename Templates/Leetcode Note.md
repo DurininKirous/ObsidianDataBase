@@ -6,10 +6,10 @@ tags:
   - pattern/two-pointers
   - company/yandex
   - sr-due
-leetcode_number: 
-difficulty: 
+leetcode_number:
+difficulty:
 topics: []
-submission_date: 
+submission_date:
 ---
 
 # 💡 The What

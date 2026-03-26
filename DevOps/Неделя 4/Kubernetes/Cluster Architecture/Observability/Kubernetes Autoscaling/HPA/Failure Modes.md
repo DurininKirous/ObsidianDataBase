@@ -1,6 +1,6 @@
 ---
-sr-due: 2026-01-18
-sr-interval: 54
+sr-due: 2026-07-09
+sr-interval: 150
 sr-ease: 230
 ---
 

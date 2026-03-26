@@ -4,95 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "616859eaadfbd9d9",
+        "id": "b577d932dc0a94a3",
         "type": "tabs",
         "children": [
           {
-            "id": "cbbab3f42a70582a",
+            "id": "ef6082cd6334e503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/CSI/Ошибки CSI.md",
+                "file": "Алгоритмы и структуры данных/Leetcode/Easy/9. Palindrome Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ошибки CSI"
+              "title": "9. Palindrome Number"
             }
           },
           {
-            "id": "5dc28436f7a56210",
+            "id": "7ceb8841dc8438ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы и структуры данных/Leetcode/Easy/21. Merge Two Sorted Lists.md",
+                "file": "Алгоритмы и структуры данных/Leetcode/Medium/159. Longest Substring with At Most Two Distinct Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21. Merge Two Sorted Lists"
+              "title": "159. Longest Substring with At Most Two Distinct Characters"
             }
           },
           {
-            "id": "670ec3924140d574",
+            "id": "a86a9508d2734fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгоритмы и структуры данных/Leetcode/Easy/572. Subtree of Another Tree.md",
+                "file": "DevOps/Неделя 4/Kubernetes/Cluster Architecture/Control Plane/kube-scheduler/Алгоритм 2 фазы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "572. Subtree of Another Tree"
-            }
-          },
-          {
-            "id": "25d6926075e2ae5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Control Plane/kube-controller-manager/Reconcile Loop/SharedInformerFactory и Informer/cache.Store ; Indexer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cache.Store ; Indexer"
-            }
-          },
-          {
-            "id": "be22ccd5b311006b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Control Plane/kube-scheduler/Внутренний пайплайн планирования.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Внутренний пайплайн планирования"
-            }
-          },
-          {
-            "id": "1d85c8f14c19662f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы и структуры данных/Leetcode/Easy/733. Flood Fill.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "733. Flood Fill"
+              "title": "Алгоритм 2 фазы"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "best ti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,12 +186,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
             "id": "af28997787234e62",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "92b67068ee09ec3c",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -263,44 +231,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d85c8f14c19662f",
+  "active": "a86a9508d2734fed",
   "lastOpenFiles": [
-    "Алгоритмы и структуры данных/Leetcode/Medium/198. House Robber.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/113. Path Sum II.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/503. Next Greater Element II.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/437. Path Sum III.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/200. Number of Islands.md",
-    "Алгоритмы и структуры данных/Leetcode/Hard/124. Binary Tree Maximum Path Sum.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/695. Max Area of Island.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/417. Pacific Atlantic Water Flow.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/105. Construct Binary Tree from Preorder and Inorder Traversal.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/542. 01 Matrix.md",
-    "Алгоритмы и структуры данных/Leetcode/Easy/463. Island Perimeter.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/107. Binary Tree Level Order Traversal II.md",
-    "Алгоритмы и структуры данных/Leetcode/Easy/70. Climbing Stairs.md",
-    "Практика/2. Dockerfile app.md",
-    "Практика/1. Kub manifest.md",
-    "Алгоритмы и структуры данных/Leetcode/Easy/733. Flood Fill.md",
-    "Алгоритмы и структуры данных/Leetcode/Easy/217. Contains Dublicate.md",
-    "Алгоритмы и структуры данных/Leetcode/Easy/226. Invert Binary Tree.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/Ресурсные менеджеры/Ресурсные менеджеры.md",
-    "Алгоритмы и структуры данных/Leetcode/Easy/13. Roman to Integer.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/Pod Lifecycle/Давление на ноде и эвикции.md",
-    "Алгоритмы и структуры данных/Leetcode/Medium/394. Decode String.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/Ресурсные менеджеры/CPU Manager.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Volumes and Storage/PV & PVC/Расширение PVC.md",
     "Алгоритмы и структуры данных/Leetcode/Easy/225. Implement Stack using Queues.md",
-    "DevOps Лагерь/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/kubelet/Probe/Поведение при удалении или терминации.md",
+    "Алгоритмы и структуры данных/Leetcode/Easy/977. Squares of a Sorted Array.md",
+    "DevOps/Неделя 1/Сети/TCP/TCP.md",
+    "Алгоритмы и структуры данных/Leetcode/Medium/91. Decode Ways.md",
+    "Linux Internals/Kernel/Отличия от обычных приложений/Комментирование ветвлений в ядре Linux.md",
+    "Алгоритмы и структуры данных/Leetcode/Easy/404. Sum of Left Leaves.md",
+    "Алгоритмы и структуры данных/Leetcode/Easy/290. Word Pattern.md",
+    "Linux Internals/Kernel/Отличия от обычных приложений/Нельзя просто использовать вычисления с плавающей точкой в ядре Linux.md",
+    "DevOps/Неделя 4/Kubernetes/Cluster Architecture/Сущности/ReplicaSet/ReplicaSet.md",
+    "Алгоритмы и структуры данных/Leetcode/Easy/700. Search in a Binary Search Tree.md",
+    "Linux Internals/Kernel/Отличия от обычных приложений/Отличия ядра Linux от обычных приложений.md",
+    "Алгоритмы и структуры данных/Leetcode/Easy/374. Guess Number Higher or Lower.md",
+    "Алгоритмы и структуры данных/Leetcode/Easy/704. Binary Search.md",
+    "Linux Internals/Kernel/Отличия от обычных приложений/Встраиваемые функции в ядре Linux.md",
+    "DevOps/Неделя 4/Kubernetes/Cluster Architecture/DNS/CoreDNS/CoreDNS.md",
+    "Алгоритмы и структуры данных/Leetcode/Medium/470. Implement Rand10() Using Rand7().md",
+    "Linux Internals/Kernel/Отличия от обычных приложений/Системная стек память для ядра Linux.md",
+    "DevOps/Неделя 1/Команды Linux/pstree.md",
+    "Алгоритмы и структуры данных/Leetcode/Easy/1450. Number of Students Doing Homework.md",
+    "DevOps/Terraform/Plugin Protocol в Terraform.md",
+    "Linux Internals/Kernel/Отличия от обычных приложений/Отсутствие библиотеки libc и стандартных заголовков в ядре Linux.md",
+    "DevOps/Неделя 2/dockerd/Что происходит при docker run?.md",
+    "Алгоритмы и структуры данных/Leetcode/Medium/2657. Find the Prefix Common Array of Two Arrays.md",
+    "Алгоритмы и структуры данных/Leetcode/Medium/55. Jump Game.md",
+    "Алгоритмы и структуры данных/Leetcode/Easy/28. Find the Index of the First Occurrence (strStr).md",
+    "Алгоритмы и структуры данных/Leetcode/Medium/6. ZigZag Conversion.md",
+    "Untitled.base",
+    "ML",
+    "Linux Internals/Kernel/Отличия от обычных приложений",
+    "Системный дизайн/Архитектура программного обеспечения",
+    "Network/eBPF/XDP",
+    "Linux Internals/Kernel",
+    "Templates",
     "Практика",
     "DevOps Лагерь/key",
     "Алгоритмы и структуры данных/Алгоритмы/Деревья/Виды обходов",
-    "Databases/Бэкапы",
-    "Системный дизайн/SLO-фрейм + RED USE",
-    "Системный дизайн",
-    "Алгоритмы и структуры данных/Алгоритмы/Деревья",
-    "Алгоритмы и структуры данных/Алгоритмы",
-    "Алгоритмы и структуры данных/Leetcode/Medium/Untitled",
-    "Алгоритмы и структуры данных/Leetcode/Hard",
     "DevOps Лагерь/Неделя 2/Linux primitives/Untitled.canvas",
     "Pasted image 20250713185610.png",
     "Pasted image 20250713185548.png",

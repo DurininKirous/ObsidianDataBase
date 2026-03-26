@@ -9,4 +9,4 @@ sr-ease: 210
 - Но kubelet сам контейнеры не запускает, он дёргат runtime (containerd/CRI-O) через CRI
 - Если бы kubelet делал каждый раз полный ListContainers/ListPodSandbox и сравнивал со спеком - это было бы очень дорого и неэффективно
 [[Проблема без PLEG]]
-[[PLEG (Pod Lifecycle Event Generator)]]
+[[PLEG (Pod Lifecycle Event Generator) в k8s]]

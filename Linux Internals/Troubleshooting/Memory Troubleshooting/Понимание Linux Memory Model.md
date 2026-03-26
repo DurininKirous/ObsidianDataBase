@@ -1,11 +1,20 @@
 ---
-sr-due: 2026-01-25
-sr-interval: 52
+created: 2026-02-04 08:26
+tags:
+  - status/seed
+  - type/concept
+  - domain/linux
+  - sr-due
+sr-due: 2026-04-30
+sr-interval: 53
 sr-ease: 250
 ---
-
-#sr-due 
+### 💡 The What
+*Что это?*
 Linux не считает "свободную" память добром - он кэширует всё, что может, чтобы ускорить операции.
+
+### ⚙️ The Why & How
+*Инженерная суть. Механика. Зачем это нужно?*
 
 | Метрика   | Значение                                                |
 | --------- | ------------------------------------------------------- |
@@ -18,5 +27,8 @@ Linux не считает "свободную" память добром - он 
 Главное правило:
 	Низкий free != плохо
 	Важно смотреть available, а не free
-[[Понимание Linux Memory Model]]
-[[Memory Troubleshooting]]
+	
+
+---
+### 🔗 Connections
+- **Родитель**: [[Понимание Linux Memory Model]], [[Memory Troubleshooting]]

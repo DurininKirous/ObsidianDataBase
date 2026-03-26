@@ -1,6 +1,6 @@
 ---
-sr-due: 2026-01-31
-sr-interval: 78
+sr-due: 2026-08-17
+sr-interval: 189
 sr-ease: 230
 ---
 	
@@ -36,5 +36,5 @@ sr-ease: 230
 	2. Поставил `nodeSelector: disktype=ssd` -> Pod запускается только на нодах с этим лейблом
 	3. Обновил DaemonSet -> контроллер перезапускает Pod'ы по одной ноде
 [[DaemonSet Controller]]
-[[DaemonSet]]
+[[DaemonSet в k8s]]
 [[[Конкретные контроллеры]]]

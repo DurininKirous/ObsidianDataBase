@@ -1,17 +1,27 @@
 ---
-sr-due: 2026-01-27
-sr-interval: 74
+created: 2026-01-28 17:41
+tags:
+  - status/seed
+  - type/concept
+  - domain/linux
+  - sr-due
+sr-due: 2026-07-18
+sr-interval: 171
 sr-ease: 228
 ---
+### 💡 The What
+*Что это?*
+NetworkPolicy - это firewall на уровне Pod'ов. Он задаёт правила: кто может общаться с подом и куда этот под может ходить сам.
 
-#sr-due 
-### Зачем нужно?
+### ⚙️ The Why & How
+*Инженерная суть. Механика. Зачем это нужно?*
 В Kubernetes по умолчанию все Pod'ы могут общаться друг с другом - трафик никак не ограничен.
 Это удобно для старта,  но небезопасно в проде:
 - любой Pod может залезть к БД,
 - сервисы могут сканировать соседей,
 - потенциальный взлом одного Pod = доступ ко всему кластеру
-NetworkPolicy - это firewall на уровне Pod'ов. Он задаёт правила: кто может общаться с подом и куда этот под может ходить сам.
-Flannel **не поддерживает NetworkPolicy**. Нужны Calico, Cilium или Weave (или Canal = Flannel+Calico).
-[[NetworkPolicy]]
-[[Сеть]]
+Flannel **не поддерживает NetworkPolicy**. Нужны Calico, Cilium или Weave (или Canal = Flannel+Calico). [[CNI]]
+
+---
+### 🔗 Connections
+- **Родитель**: [[Сеть]]]

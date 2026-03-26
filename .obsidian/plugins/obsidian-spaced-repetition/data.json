@@ -25,7 +25,7 @@
       "#sr-due"
     ],
     "noteFoldersToIgnore": [
-      "**/*.excalidraw.md"
+      "Templates/*.md"
     ],
     "openRandomNote": true,
     "autoNextNote": true,

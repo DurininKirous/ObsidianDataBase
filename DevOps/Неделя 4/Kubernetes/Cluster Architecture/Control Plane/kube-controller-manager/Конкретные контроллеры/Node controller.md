@@ -1,6 +1,6 @@
 ---
-sr-due: 2026-02-01
-sr-interval: 79
+sr-due: 2026-08-15
+sr-interval: 189
 sr-ease: 230
 ---
 
@@ -32,5 +32,5 @@ sr-ease: 230
 	2. Если за 5 минут нода не вернулась -> Pod'ы будут эвакуированы и пересозданы на других нодах
 	3. Если нода восстановилась до истечения `pod-eviction-timeout` -> Pod'ы остаются, эвакуация не происходит
 [[Obsidian Vault/Rebrain/Studying/DevOps/Неделя 4/Kubernetes/Cluster Architecture/Worker Nodes/Node Controller|Node Controller]]
-[[Node]]
+[[Node в k8s]]
 [[Конкретные контроллеры]]

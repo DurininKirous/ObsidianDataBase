@@ -5,6 +5,9 @@ tags:
   - type/concept
   - domain/terraform
   - sr-due
+sr-due: 2026-04-12
+sr-interval: 28
+sr-ease: 190
 ---
 ### 💡 The What
 *Что это?*
